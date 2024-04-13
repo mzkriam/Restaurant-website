@@ -1,7 +1,7 @@
-# [Restaurant Name] Website
+# Al-Nubalaa Restaurant Website
 
 ## Overview
-The [Restaurant Name] website offers a complete digital dining experience, providing visitors with comprehensive information about the menu, reservations, and special events. Designed to be an interactive gateway that reflects the quality and ambiance of the restaurant.
+The Al-Nubalaa Restaurant website offers a complete digital dining experience, providing visitors with comprehensive information about the menu, reservations, and special events. Designed to be an interactive gateway that reflects the quality and ambiance of the restaurant.
 
 ## Website Features
 - **Menu**: Detailed view of available dishes with images and prices.
