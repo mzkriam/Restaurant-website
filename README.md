@@ -13,3 +13,4 @@ The Al-Nubalaa Restaurant website offers a complete digital dining experience, p
 ## Technologies Used
 - **Front-End**: HTML, CSS, JavaScript
 
+![screencapture-mzkriam-github-io-Restaurant-website-2024-04-07-17_21_44](https://github.com/mzkriam/Restaurant-website/assets/73972415/654c55ef-c986-49a7-bfbe-8cbea489c3c6)
